@@ -4,7 +4,7 @@ import MySecondComponent from './components/MySecondComponent';
 
 function App () {
     const user = {
-        name: 'Iryna',
+        name: 'Iryna 23',
     };
 
     return (
